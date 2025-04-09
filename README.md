@@ -3,7 +3,7 @@ Collection of sample codes for class lectures and assignments
 
 # 1. LP.ipynb
 
-Modify tis jupyter file according to the following problem statement. 
+Modify this jupyter file according to the following problem statement. 
 
 
 **Maximize Production of 2 Plants**
