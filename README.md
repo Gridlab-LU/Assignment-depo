@@ -1,11 +1,10 @@
 # Assignment-depo
 Collection of sample codes for class lectures and assignments
 
-1. LP.ipynb
+# 1. LP.ipynb
 
 Modify tis jupyter file according to the following problem statement. 
 
-# LP Problem
 
 **Maximize Production of 2 Plants**
 
